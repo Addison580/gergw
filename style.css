@@ -1,0 +1,48 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#img
+{
+    width: 300px;
+    height: 200px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, ) ;
+
+}
+picture
+{
+    width: 150px;
+    height: 100px;
+}
+#img_1
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 10;
+    box-shadow: inset;
+    
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+}
+#img:hover{
+    border-radius: 140px;
+}
+#img_1:hover{
+    border-radius: 140px;
+}
